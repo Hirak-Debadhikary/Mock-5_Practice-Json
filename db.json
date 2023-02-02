@@ -4,21 +4,21 @@
       "id": 1,
       "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon/7384/1614326304397/front-left-side-47.jpg",
       "brand": "Tata",
-      "type": "Manual",
+      "transmission": "Manual",
       "year": 2019,
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "kmDriven": 10000,
+      "description": "Tata Altroz with all original documents",
+      "price": 500000
     },
     {
       "id": 2,
       "image": "https://images.hindustantimes.com/auto/auto-images/Tata/Nexon/exterior_tata-nexon_front-view_630x420.jpg",
       "brand": "Tata",
-      "type": "AMT",
+      "transmission": "AMT",
       "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "kmDriven": 8000,
+      "description": "Tata Nexon with all original documents",
+      "price": 800000
     }
   ],
   "wishlisted_cars": [
@@ -27,10 +27,10 @@
       "image": "https://images.hindustantimes.com/auto/auto-images/Tata/Nexon/exterior_tata-nexon_front-view_630x420.jpg",
       "brand": "Tata",
       "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "transmission": "Manual",
+      "kmDriven": 10000,
+      "description": "Tata Altroz with all original documents",
+      "price": 500000
     }
   ]
 }
