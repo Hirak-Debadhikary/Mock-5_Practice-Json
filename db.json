@@ -32,5 +32,18 @@
       "description": "Tata Altroz with all original documents",
       "price": 500000
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "k. K. Rowling",
+      "genre": "fiction",
+      "edition": "2070",
+      "publisher": "Bloomsbury",
+      "cost": 1209,
+      "borrowed": true
+    }
   ]
 }
